@@ -1,0 +1,16 @@
+spring:
+  rabbitmq:
+    host: 192.168.42.131
+    username: smallming
+    password: smallming
+  profiles:
+    active: commons,redis
+
+dubbo:
+  application:
+    name: ego-portal
+  registry:
+    address: zookeeper://192.168.42.128:2181
+
+
+

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9935946a-ea74-4fbe-a32b-8ee7693aa03f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ego_manage/src/main/resources/static/css/egou.css" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1YhKHLucgj4GVeJcEHUN4id8bit" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../12 电商：创建订单及订单邮件/资料/源码/ego_parent" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\百战\18 亿级高并发电商项目_架构编码\01 电商：基于SpringSecurity实现后台登录功能\资料\源码\ego_parent\ego_commons\src\main\java\com\ego\utils" />
+      <recent name="G:\百战\18 亿级高并发电商项目_架构编码\01 电商：基于SpringSecurity实现后台登录功能\资料\源码\ego_parent\ego_rabbitmq_receive\src\main\resources" />
+      <recent name="G:\百战\18 亿级高并发电商项目_架构编码\01 电商：基于SpringSecurity实现后台登录功能\资料\源码\ego_parent\ego_redis\src\main\resources" />
+      <recent name="G:\百战\18 亿级高并发电商项目_架构编码\01 电商：基于SpringSecurity实现后台登录功能\资料\源码\ego_parent" />
+      <recent name="G:\百战\18 亿级高并发电商项目_架构编码\01 电商：基于SpringSecurity实现后台登录功能\资料\源码\ego_parent\ego_item\src\main\java\com\ego" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ego.portal.config" />
+      <recent name="com.ego.dubbo.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ego_item" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ego.ItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ego_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ego.ManageApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ego_portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ego.PortalApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ego_provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ego.ProviderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ego_rabbitmq_receive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ego.ReceiveApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.PortalApplication" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
+      <item itemvalue="Spring Boot.ManageApplication" />
+      <item itemvalue="Spring Boot.ItemApplication" />
+      <item itemvalue="Spring Boot.ReceiveApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9935946a-ea74-4fbe-a32b-8ee7693aa03f" name="Default Changelist" comment="" />
+      <created>1583389296432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583389296432</updated>
+      <workItem from="1583389299886" duration="9251000" />
+      <workItem from="1649134099573" duration="312000" />
+      <workItem from="1649134451857" duration="3994000" />
+      <workItem from="1649245810354" duration="9326000" />
+      <workItem from="1649327626305" duration="7238000" />
+      <workItem from="1649339611900" duration="996000" />
+      <workItem from="1649342895217" duration="925000" />
+      <workItem from="1649344865187" duration="319000" />
+      <workItem from="1649347284620" duration="658000" />
+      <workItem from="1649348059181" duration="626000" />
+      <workItem from="1649379275763" duration="4720000" />
+      <workItem from="1649384670135" duration="1362000" />
+      <workItem from="1649417051563" duration="8067000" />
+      <workItem from="1649466305201" duration="2122000" />
+      <workItem from="1649468731418" duration="11684000" />
+      <workItem from="1649493994585" duration="3996000" />
+      <workItem from="1649580448981" duration="10562000" />
+      <workItem from="1649661040821" duration="6396000" />
+      <workItem from="1649679998452" duration="562000" />
+      <workItem from="1649680612211" duration="1953000" />
+      <workItem from="1649682625398" duration="161000" />
+      <workItem from="1649682834865" duration="121000" />
+      <workItem from="1649682984389" duration="119000" />
+      <workItem from="1649683318119" duration="1751000" />
+      <workItem from="1649689786022" duration="80000" />
+      <workItem from="1649691621873" duration="1208000" />
+      <workItem from="1649693298545" duration="611000" />
+      <workItem from="1649757817465" duration="7516000" />
+      <workItem from="1649774944291" duration="777000" />
+      <workItem from="1649775801489" duration="1874000" />
+      <workItem from="1649777767614" duration="2236000" />
+      <workItem from="1649816692206" duration="7014000" />
+      <workItem from="1649827361888" duration="3984000" />
+      <workItem from="1653274920342" duration="421000" />
+      <workItem from="1653275414138" duration="433000" />
+      <workItem from="1653275953881" duration="1220000" />
+      <workItem from="1653277822208" duration="572000" />
+      <workItem from="1653278442009" duration="13636000" />
+      <workItem from="1655281216665" duration="957000" />
+      <workItem from="1655348684388" duration="2216000" />
+      <workItem from="1657797868551" duration="898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

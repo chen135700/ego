@@ -1,0 +1,22 @@
+package com.ego.service.impl;
+
+import com.ego.commons.pojo.EgoResult;
+import com.ego.dubbo.service.TbItemDescDubboService;
+import com.ego.dubbo.service.TbItemDubboService;
+import com.ego.pojo.TbItemDesc;
+import com.ego.service.TbItemDescService;
+import org.apache.dubbo.config.annotation.Reference;
+import org.springframework.stereotype.Service;
+
+@Service
+public class TbItemDescServiceImpl implements TbItemDescService {
+
+    @Reference
+    private TbItemDescDubboService tbItemDescDubboService;
+
+    @Override
+    public EgoResult selectById(Long id) {
+        TbItemDesc tbIemDesc = tbItemDescDubboService.selectById(id);
+        return EgoResult.ok(tbIemDesc);
+    }
+}
